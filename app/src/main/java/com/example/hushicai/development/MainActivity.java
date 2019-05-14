@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-    private static final String TAG = "Development Kit";
+    private static final String TAG = "Android Development Kit";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
